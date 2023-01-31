@@ -9,7 +9,7 @@ dependencies = [
     "xraylib",
     "numpy",
     "hdf5plugin",
-    "swmr_tools<0.7.0",
+    "swmr_tools<0.9.0",
     "blosc",
     "stomp.py",
 ]
